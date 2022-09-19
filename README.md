@@ -6,6 +6,7 @@ Basic Guides for Open Edge
 ### Data Manipulation:
 
 - [Remove Word from Phrase](https://github.com/raphaelfrei/open_edge-guides/tree/main/Data%20Manipulation/Remove%20Word%20from%20Phrase)
+- [Temp Table and Freeform Query](https://github.com/raphaelfrei/open_edge-guides/tree/main/Data%20Manipulation/Temp%20Tables%20and%20Custom%20Query)
 
 ### General:
 
