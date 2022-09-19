@@ -1,6 +1,6 @@
 # How to Use Custom DLLs into Progress
 Once you get into Progress, you'll notice that some external integrations into the app are kinda buggy.<br>
-I had some issues when trying to set up [my DLL](https://github.com/raphaelfrei/open_edge-guides/tree/main/Password%20and%20Encryption/Microsoft%20Azure%20Login) to work, and with this procedure I've managed to get it working.
+I had some issues when trying to set up [my DLL](https://github.com/raphaelfrei/open_edge-guides/tree/main/Password%20and%20Encryption/Microsoft%20Azure%20Login) to work, and with this methods I've managed to get it working.
 
 ### How To Use:
 - **1st:** Copy the DLL into the bin folder *(In my case - **C:\dlc117\bin**)*;<br>
@@ -9,7 +9,7 @@ I had some issues when trying to set up [my DLL](https://github.com/raphaelfrei/
     - 'C:\dlc117\bin\'
     - 'C:\dlc117\'
     - 'C:\dlc117w\'
-    - If none works, try copying the file into other folders and test.
+    - If none works, try copying the file into other folders and test. *(Folder needs to be in **PROPATH**)*
     
 To run the DLL from your code, do this:
 ````progress
