@@ -14,6 +14,7 @@ Basic Guides for Open Edge
 - [Scale Screen *(and Elements)*](https://github.com/raphaelfrei/open_edge-guides/tree/main/General/Scale%20Screen)
 - [Try Catch Operations](https://github.com/raphaelfrei/open_edge-guides/tree/main/General/Try%20Catch)
 - [Register Custom DLL](https://github.com/raphaelfrei/open_edge-guides/tree/main/General/Custom%20DLL)
+- [Send SMTP - HTML Emails](https://github.com/raphaelfrei/open_edge-guides/tree/main/General/Send%20SMTP%20Email)
 
 ### Password and Encryption:
 - [Microsoft Azure Authentication](https://github.com/raphaelfrei/open_edge-guides/tree/main/Password%20and%20Encryption/Microsoft%20Azure%20Login)
