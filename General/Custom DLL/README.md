@@ -9,7 +9,7 @@ I had some issues when trying to set up [my DLL](https://github.com/raphaelfrei/
     - 'C:\dlc117\bin\'
     - 'C:\dlc117\'
     - 'C:\dlc117w\'
-    - If none works, try copying the file into other folders and test. *(Folder needs to be in **PROPATH**)*
+    - If none works, try copying the file into other folders and test.
     
 To run the DLL from your code, do this:
 ````progress
