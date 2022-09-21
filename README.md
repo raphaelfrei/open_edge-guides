@@ -5,6 +5,21 @@ I'll try to make a basic Wiki about some essentials about progress.
 
 ## Content:
 
+### Basics of Programming:
+
+- [Basics](https://github.com/raphaelfrei/open_edge-guides/tree/main/Basics%20of%20Programming)
+  - [Variables](https://github.com/raphaelfrei/open_edge-guides/tree/main/Basics%20of%20Programming#variables)
+  - [Convert Variables](https://github.com/raphaelfrei/open_edge-guides/tree/main/Basics%20of%20Programming#convert-variables)
+  - [Message Box](https://github.com/raphaelfrei/open_edge-guides/tree/main/Basics%20of%20Programming#message-box)
+  - [Condition Blocks](https://github.com/raphaelfrei/open_edge-guides/tree/main/Basics%20of%20Programming#condition-blocks)
+  - [Manipulate Screen Elements](https://github.com/raphaelfrei/open_edge-guides/tree/main/Basics%20of%20Programming#manipulate-screen-elements)
+  - [Database on Code](https://github.com/raphaelfrei/open_edge-guides/tree/main/Basics%20of%20Programming#database)
+  - [Open External Window/Procedure](https://github.com/raphaelfrei/open_edge-guides/tree/main/Basics%20of%20Programming#open-other-windows)
+  - [Compile Apps](https://github.com/raphaelfrei/open_edge-guides/tree/main/Basics%20of%20Programming#compile-apps)
+  - [Create and Modify Database](https://github.com/raphaelfrei/open_edge-guides/tree/main/Basics%20of%20Programming#create-and-modify-database)
+  - [Connect Database from PF](https://github.com/raphaelfrei/open_edge-guides/tree/main/Basics%20of%20Programming#connect-database-from-parameter-file)
+  - [Run CMD Commands](https://github.com/raphaelfrei/open_edge-guides/blob/main/Basics%20of%20Programming/README.md#run-cmd-commands)
+
 ### Data Manipulation:
 
 - [Remove Word from Phrase](https://github.com/raphaelfrei/open_edge-guides/tree/main/Data%20Manipulation/Remove%20Word%20from%20Phrase)
