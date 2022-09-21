@@ -1,5 +1,7 @@
 # Open Edge - Guide
-Basic Guides for Open Edge
+Hi! I've decided to make this guide to give some hints about programming with OpenEdge ABL (aka Progress).<br>
+This is because there is no much content about progress besides the official documents. When I started learning and working with this language, most of what I learned was debugging old programs and LOTS of research.<br>
+I'll try to make a basic Wiki about some essentials about progress.
 
 ## Content:
 
