@@ -466,3 +466,27 @@ Add this command into the PF:
 ### Example:
 - -db C:\DB\UserSettings.db -ld UserSettings -1
 - -db C:\DB\UserSettings.db -ld UserSettings -N TCP -H 192.168.0.1 -S 80000 -Mm 4096
+
+## RUN CMD COMMANDS:
+Run CMD values from Procedures
+
+````progress
+
+    //// Run DOS commands - Only on Windows
+    DOS /* [SILENT] */ VALUE(/* VARIABLE or DIRECT COMMAND */).
+    // SILENT prevents from appearing CMD window (If not SILENT, will require user to hit spacebar to close CMD)
+    
+    // ---- Examples ----
+    DEF VAR i_command    AS CHAR NO-UNDO.
+    DEF VAR i_filePath   AS CHAR NO-UNDO.
+    DEF VAR i_moveFileTo AS CHAR NO-UNDO.
+    
+    // '~' is the escape character from Progress
+    i_command = "move ~"" + i_filePath + "~" ~"" + i_moveFileTo + "~"".
+    //// DOS: move "C:\logs\21092022.log" "C:\logs\old\"
+    // Example command, DOS works with all CMD commands (I've been using this a lot with NETUSE)
+    
+    DOS SILENT VALUE(i_command).
+````
+- Official Docs from [DOS](https://docs.progress.com/pt-BR/bundle/openedge-abl-reference-117/page/DOS-statement.html)
+- All [DOS COMMANDS](https://en.wikipedia.org/wiki/List_of_DOS_commands)
