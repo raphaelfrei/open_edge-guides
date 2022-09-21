@@ -21,4 +21,32 @@ ELSE DO:
 END.
 ````
 
+C# Procedure to connect into Azure's service
+````cs
+public static string AzureLogin(string user, string password, string domain) {
 
+    string status;
+
+    try {
+        // This gets the provided user, password and domain and simply tries to make an search thru AD
+        // If it manages to search, means that the provided password is correct, if not means that something is wrong
+        //// Can be locked account, wrong domain, wrong password
+        new DirectorySearcher(new DirectoryEntry("LDAP://" + domain, user, password) {
+            AuthenticationType = AuthenticationTypes.Secure,
+            Username = user,
+            Password = password
+
+        }) {
+            Filter = "(objectclass=user)"
+        }.FindOne().Properties["displayname"][0].ToString();
+
+        status = "SUCCESS - User " + user + " has logged in.";
+
+    } catch (System.Exception e) {
+        status = "ERROR - While logging in: " + e.ToString();
+
+    }
+
+    return status;
+}
+````
