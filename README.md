@@ -32,6 +32,7 @@ I'll try to make a basic Wiki about some essentials about progress.
 - [Try Catch Operations](https://github.com/raphaelfrei/open_edge-guides/tree/main/General/Try%20Catch)
 - [Register Custom DLL](https://github.com/raphaelfrei/open_edge-guides/tree/main/General/Custom%20DLL)
 - [Send SMTP - HTML Emails](https://github.com/raphaelfrei/open_edge-guides/tree/main/General/Send%20SMTP%20Email)
+- [List Files from Directory](https://github.com/raphaelfrei/open_edge-guides/tree/main/General/List%20File%20From%20Directory)
 
 ### Password and Encryption:
 - [Microsoft Azure Authentication](https://github.com/raphaelfrei/open_edge-guides/tree/main/Password%20and%20Encryption/Microsoft%20Azure%20Login)
