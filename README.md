@@ -13,7 +13,7 @@ I'll try to make a basic Wiki about some essentials about progress.
   - [Message Box](https://github.com/raphaelfrei/open_edge-guides/tree/main/Basics%20of%20Programming#message-box)
   - [Condition Blocks](https://github.com/raphaelfrei/open_edge-guides/tree/main/Basics%20of%20Programming#condition-blocks)
   - [Manipulate Screen Elements](https://github.com/raphaelfrei/open_edge-guides/tree/main/Basics%20of%20Programming#manipulate-screen-elements)
-  - [Database on Code](https://github.com/raphaelfrei/open_edge-guides/tree/main/Basics%20of%20Programming#database)
+  - [How To Use Database on Code](https://github.com/raphaelfrei/open_edge-guides/tree/main/Basics%20of%20Programming#database)
   - [Open External Window/Procedure](https://github.com/raphaelfrei/open_edge-guides/tree/main/Basics%20of%20Programming#open-other-windows)
   - [Compile Apps](https://github.com/raphaelfrei/open_edge-guides/tree/main/Basics%20of%20Programming#compile-apps)
   - [Create and Modify Database](https://github.com/raphaelfrei/open_edge-guides/tree/main/Basics%20of%20Programming#create-and-modify-database)
