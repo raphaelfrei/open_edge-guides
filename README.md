@@ -3,7 +3,7 @@ Hi! I've decided to make this guide to give some hints about programming with Op
 This is because there is no much content about progress besides the official documents. When I started learning and working with this language, most of what I learned was debugging old programs and LOTS of research.<br>
 I'll try to make a basic Wiki about some essentials about progress.
 
-## Content:
+## GitHub Guides:
 
 ### Basics of Programming:
 
@@ -36,3 +36,9 @@ I'll try to make a basic Wiki about some essentials about progress.
 
 ### Password and Encryption:
 - [Microsoft Azure Authentication](https://github.com/raphaelfrei/open_edge-guides/tree/main/Password%20and%20Encryption/Microsoft%20Azure%20Login)
+
+## YouTube Videos:
+*(All videos are in PT-BR)*
+
+### Basics:
+- [How To Create and Manipulate Variables](https://youtu.be/g1TNlkh5xug)
