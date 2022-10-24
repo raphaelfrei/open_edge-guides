@@ -356,6 +356,16 @@ How to manipulate database on the code.
         
     END.
     
+    //// Searching with FIELDS option:
+    // Reduces CPU and Memory usage because the search only occurs in these fields
+    // This is different from the above, because there you search based on the name and after finding the record, you change the number
+    
+    FOR FIRST user FIELDS (user.usr_id) WHERE user.usr_id = "abc" NO-LOCK:
+        // You can only display the fields used on the FIELDS option; Otherwhise will raise an error.
+        DISPLAY usr_mstr.usr_userid.
+    END.
+    
+    
     //// FOR EACH Types:
     // CAUTION - You can destroy an entire database with this
     // (I've done it myself... luckly it was on DEV's database... I've encrypted everybody's password twice, so no one could log into the system)
