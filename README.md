@@ -34,6 +34,7 @@ I'll try to make a basic Wiki about some essentials about progress.
 - [Send SMTP - HTML Emails](https://github.com/raphaelfrei/open_edge-guides/tree/main/General/Send%20SMTP%20Email)
 - [List Files from Directory](https://github.com/raphaelfrei/open_edge-guides/tree/main/General/List%20File%20From%20Directory)
 - [Hold Window with Pop-Up opened](https://github.com/raphaelfrei/open_edge-guides/tree/main/General/Hold%20Window%20With%20Popup)
+- [SQL Connection](https://github.com/raphaelfrei/open_edge-guides/tree/main/General/SQL%20Connection)
 
 ### Password and Encryption:
 - [Microsoft Azure Authentication](https://github.com/raphaelfrei/open_edge-guides/tree/main/Password%20and%20Encryption/Microsoft%20Azure%20Login)
