@@ -5,7 +5,7 @@ I'll try to make a basic Wiki about some essentials about progress.
 
 ## GitHub Guides:
 
-### Basics of Programming:
+### Concepts of Programming:
 
 - [Basics](https://github.com/raphaelfrei/open_edge-guides/tree/main/Programming#basics-of-programming)
   > [Variables](https://github.com/raphaelfrei/open_edge-guides/tree/main/Programming#variables)<br>
@@ -19,6 +19,8 @@ I'll try to make a basic Wiki about some essentials about progress.
   > [Create and Modify Database](https://github.com/raphaelfrei/open_edge-guides/tree/main/Programming#create-and-modify-database)<br>
   > [Connect Database from PF](https://github.com/raphaelfrei/open_edge-guides/tree/main/Programming#connect-database-from-parameter-file)<br>
   > [Run CMD Commands](https://github.com/raphaelfrei/open_edge-guides/blob/main/Programming/README.md#run-cmd-commands)<br>
+  
+- [Intermedium]()
 
 ### Data Manipulation:
 
