@@ -1,7 +1,7 @@
 # Programming with OpenEdge Progress 4GL - General Tips and Tricks:
 
 - [Basics of Programming](https://github.com/raphaelfrei/open_edge-guides/tree/main/Programming#basics-of-programming)
-- [Intermediate Contents](https://github.com/raphaelfrei/open_edge-guides/tree/main/Programming#interdiate-of-programming)
+- [Intermediate Contents](https://github.com/raphaelfrei/open_edge-guides/tree/main/Programming#intermediate-of-programming)
 
 # Basics of Programming!
 Basics on how to start programming with OpenEdge.
