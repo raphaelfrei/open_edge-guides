@@ -1,3 +1,8 @@
+# Programming with OpenEdge Progress 4GL - General Tips and Tricks:
+
+- [Basics of Programming](https://github.com/raphaelfrei/open_edge-guides/tree/main/Programming#basics-of-programming)
+- [Intermediate Contents](https://github.com/raphaelfrei/open_edge-guides/tree/main/Programming#interdiate-of-programming)
+
 # Basics of Programming!
 Basics on how to start programming with OpenEdge.
 
@@ -514,7 +519,7 @@ Run CMD values from Procedures
 - Official Docs from [DOS](https://docs.progress.com/pt-BR/bundle/openedge-abl-reference-117/page/DOS-statement.html)
 - All [DOS COMMANDS](https://en.wikipedia.org/wiki/List_of_DOS_commands)
 
-# Intermedium of Programming!
+# Intermediate of Programming!
 Apply more advanced tricks to the basics.
 
 ## INDEX:
