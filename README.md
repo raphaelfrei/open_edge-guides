@@ -20,7 +20,7 @@ I'll try to make a basic Wiki about some essentials about progress.
   > [Connect Database from PF](https://github.com/raphaelfrei/open_edge-guides/tree/main/Programming#connect-database-from-parameter-file)<br>
   > [Run CMD Commands](https://github.com/raphaelfrei/open_edge-guides/blob/main/Programming/README.md#run-cmd-commands)<br>
   
-- [Intermedium]()
+- [Intermediate](https://github.com/raphaelfrei/open_edge-guides/tree/main/Programming#intermedium-of-programming)
 
 ### Data Manipulation:
 
