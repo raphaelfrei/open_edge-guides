@@ -29,6 +29,7 @@ I'll try to make a basic Wiki about some essentials about progress.
 ### Database:
 
 - [Perform Online Backup](https://github.com/raphaelfrei/open_edge-guides/tree/main/Database/Create%20BKP%20File)
+- [Restore Backup File](https://github.com/raphaelfrei/open_edge-guides/tree/main/Database/Restore%20BKP%20File)
 
 ### General:
 
