@@ -52,7 +52,7 @@ PROCEDURE GetDatabaseName:
 
     iNumEntries = NUM-ENTRIES(cFilePath, "\").
 
-    cFilePath = ENTRY(iNumEntries, cFilePath, "\").
+    cDBName = ENTRY(iNumEntries, cFilePath, "\").
 
     RETURN.
 
