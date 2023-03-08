@@ -513,3 +513,8 @@ Run CMD values from Procedures
 ````
 - Official Docs from [DOS](https://docs.progress.com/pt-BR/bundle/openedge-abl-reference-117/page/DOS-statement.html)
 - All [DOS COMMANDS](https://en.wikipedia.org/wiki/List_of_DOS_commands)
+
+# Intermedium of Programming!
+Apply more advanced tricks to the basics.
+
+## INDEX:
