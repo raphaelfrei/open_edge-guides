@@ -523,7 +523,7 @@ Run CMD values from Procedures
 Apply more advanced tricks to the basics.
 
 ## INDEX:
-- [Custom .INI File](https://github.com/raphaelfrei/open_edge-guides/blob/main/Basics%20of%20Programming/README.md#custom-.ini-file)
+- [Custom .INI File](https://github.com/raphaelfrei/open_edge-guides/tree/main/Programming#custom-ini-file)
 
 ## CUSTOM .INI FILE:
 .INI file is required to set custom fonts, colors and PROPATH variables. <br>
