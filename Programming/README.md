@@ -523,3 +523,43 @@ Run CMD values from Procedures
 Apply more advanced tricks to the basics.
 
 ## INDEX:
+- [Custom .INI File](https://github.com/raphaelfrei/open_edge-guides/blob/main/Basics%20of%20Programming/README.md#custom-.ini-file)
+
+## CUSTOM .INI FILE:
+.INI file is required to set custom fonts, colors and PROPATH variables. <br>
+This is a good option when you have more than one enviroment and need to set some custom settings individually.
+
+### Set up a new .INI File:
+
+Copy the default file from Progress to another folder that you will use. <br>
+The location is: ````C:\YOUR_PROGRESS_FOLDER\bin\progress.ini````
+
+### Add .INI File to Shortcut:
+
+Modify your Progress Shortcut and add the -INI parameter - Something like: <br>
+````C:\Progress\bin\prowin32.exe -ini "C:\...\DEV\dev.ini" -p _ab.r````
+
+### Editing .INI File:
+
+There are **two ways** to modify the file.
+
+1. Modify by opening the **PRO\*TOOLS** and choose the option that you need (Colors, Fonts, PROPATH). <br>
+2. Modify by opening the .INI file with **Notepad**. *(I recommend using this only to change the PROPATH variables, use PRO\*TOOLS to modify everything else instead)*
+
+### What is this file good for?
+
+As [Progress](https://docs.progress.com/pt-BR/bundle/openedge-abl-manage-applications-117/page/Maintaining-the-progress.ini-file.html) said:
+
+````
+The progress.ini file specifies environment variable settings for the Windows environment. It contains sections and settings for the following types of options:
+
+1. Options required by OpenEdge
+2. Options required by OpenEdge tools (such as the Procedure Editor and the Report Builder)
+3. User-defined options
+4. Environment variables
+````
+
+For pratical uses, if you specify a **.INI** file with **PROPATH** showing the **.W/.R** folder, you don't need to pass the full path when calling the program from shortcut or code itself.<br>
+You now only need to pass the program name and it will open the first-find on the **PROPATH** folder.
+1. It gives an error if .INI or .W/.R file is not found.
+2. If you have more than one file with the same name and in different PROPATH folders, it will open the folder nearest to the beginning of the PROPATH.
