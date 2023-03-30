@@ -35,6 +35,7 @@ I'll try to make a basic Wiki about some essentials about progress.
 
 ### General:
 
+- [Get Caller Program and User](https://github.com/raphaelfrei/open_edge-guides/tree/main/General/Get%20Caller%20Program%20and%20User)
 - [Scale Screen *(and Elements)*](https://github.com/raphaelfrei/open_edge-guides/tree/main/General/Scale%20Screen)
 - [Try Catch Operations](https://github.com/raphaelfrei/open_edge-guides/tree/main/General/Try%20Catch)
 - [Register Custom DLL](https://github.com/raphaelfrei/open_edge-guides/tree/main/General/Custom%20DLL)
