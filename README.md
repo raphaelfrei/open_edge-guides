@@ -47,9 +47,3 @@ I'll try to make a basic Wiki about some essentials about progress.
 
 ### Password and Encryption:
 - [Microsoft Azure Authentication](https://github.com/raphaelfrei/open_edge-guides/tree/main/Password%20and%20Encryption/Microsoft%20Azure%20Login)
-
-## YouTube Videos:
-*(All videos are in PT-BR)*
-
-### Basics:
-- [How To Create and Manipulate Variables](https://youtu.be/g1TNlkh5xug)
