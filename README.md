@@ -51,5 +51,6 @@ I'll try to make a basic Wiki about some essentials about progress.
 
 ### YouTube (PT-BR):
 - [Downloading and Installing Progress 4GL 12.2 Student License](https://youtu.be/PZUiiU6TsYc)
+  > [Text Guide](https://github.com/raphaelfrei/open_edge-guides/blob/main/YouTube/video-0001/readme.md)
 - [Creating a Basic Database](https://youtu.be/OKE865RBTM8)
   > [Source Code](https://github.com/raphaelfrei/open_edge-guides/tree/main/YouTube/video-0002)
