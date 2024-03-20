@@ -48,3 +48,8 @@ I'll try to make a basic Wiki about some essentials about progress.
 
 ### Password and Encryption:
 - [Microsoft Azure Authentication](https://github.com/raphaelfrei/open_edge-guides/tree/main/Password%20and%20Encryption/Microsoft%20Azure%20Login)
+
+### YouTube (PT-BR):
+- [Downloading and Installing Progress 4GL 12.2 Student License](https://youtu.be/PZUiiU6TsYc)
+- [Creating a Basic Database](https://youtu.be/OKE865RBTM8)
+  > [Source Code](https://github.com/raphaelfrei/open_edge-guides/tree/main/YouTube/video-0002)
