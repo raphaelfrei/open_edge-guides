@@ -1,0 +1,33 @@
+
+                Mon Nov 28 16:08:22 2022
+[2022/11/28@16:08:22.074-0300] P-26592      T-25036 I DBUTIL   : (19399) Database with large file support enabled is being opened under sub-Enterprise license.  Large file support will be disabled. 
+[2022/11/28@16:08:22.074-0300] P-26592      T-25036 I DBUTIL   : (451)   prostrct create session begin for rapha on CON:. 
+[2022/11/28@16:08:22.075-0300] P-26592      T-25036 I DBUTIL   : (19399) Database with large file support enabled is being opened under sub-Enterprise license.  Large file support will be disabled. 
+[2022/11/28@16:08:22.075-0300] P-26592      T-25036 I DBUTIL   : (12862) Structure file D:\Código\Open Edge\Udemy\Banco de Dados\aula05.st used to create database with blocksize 4096. 
+[2022/11/28@16:08:22.116-0300] P-26592      T-25036 I DBUTIL   : (334)   prostrct create session end. 
+[2022/11/28@16:08:22.119-0300] P-26592      T-25036 I DBUTIL   : (451)   procopy session begin for rapha on CON:. 
+[2022/11/28@16:08:22.290-0300] P-26592      T-25036 I DBUTIL   : (334)   procopy session end. 
+
+                Mon Nov 28 16:08:22 2022
+[2022/11/28@16:08:22.295-0300] P-26592      T-25036 I DBUTIL   : (451)   procopy get default SQL DBA session begin for rapha on CON:. 
+[2022/11/28@16:08:22.296-0300] P-26592      T-25036 I DBUTIL   : (15321) Before Image Log Initialization at block 0  offset 0. 
+[2022/11/28@16:08:22.402-0300] P-26592      T-25036 I DBUTIL   : (14867) Procopy -newinstance Created a new database GUID. 
+[2022/11/28@16:08:22.479-0300] P-26592      T-25036 I DBUTIL   : (15109) At Database close the number of live transactions is 0. 
+[2022/11/28@16:08:22.480-0300] P-26592      T-25036 I DBUTIL   : (15743) Before Image Log Completion at Block 0 Offset 2651. 
+[2022/11/28@16:08:22.481-0300] P-26592      T-25036 I DBUTIL   : (334)   procopy get default SQL DBA session end. 
+
+                Mon Nov 28 16:08:41 2022
+[2022/11/28@16:08:41.635-0300] P-2120       T-27088 I ABL      : (451)   Single-user session begin for rapha on CON:. 
+[2022/11/28@16:08:41.636-0300] P-2120       T-27088 I ABL      : (15321) Before Image Log Initialization at block 0  offset 2651. 
+[2022/11/28@16:08:41.662-0300] P-2120       T-27088 I ABL      : (7129)  Usr 0 set name to rapha. 
+[2022/11/28@16:23:59.198-0300] P-2120       T-27088 I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2022/11/28@16:23:59.198-0300] P-2120       T-27088 I ABL      : (15743) Before Image Log Completion at Block 4 Offset 1146. 
+[2022/11/28@16:23:59.199-0300] P-2120       T-27088 I ABL      : (334)   Single-user session end. 
+
+                Mon Nov 28 17:07:24 2022
+[2022/11/28@17:07:24.839-0300] P-26784      T-3384  I ABL      : (451)   Single-user session begin for rapha on CON:. 
+[2022/11/28@17:07:24.840-0300] P-26784      T-3384  I ABL      : (15321) Before Image Log Initialization at block 4  offset 1146. 
+[2022/11/28@17:07:24.848-0300] P-26784      T-3384  I ABL      : (7129)  Usr 0 set name to rapha. 
+[2022/11/28@17:17:18.359-0300] P-26784      T-3384  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2022/11/28@17:17:18.359-0300] P-26784      T-3384  I ABL      : (15743) Before Image Log Completion at Block 4 Offset 3418. 
+[2022/11/28@17:17:18.361-0300] P-26784      T-3384  I ABL      : (334)   Single-user session end. 

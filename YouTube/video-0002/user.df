@@ -1,0 +1,78 @@
+ADD TABLE "user_control"
+  AREA "Schema Area"
+  DESCRIPTION "Cadastro e Manutenção de Usuários"
+  DUMP-NAME "user_control"
+
+ADD FIELD "user_email" OF "user_control" AS character 
+  DESCRIPTION "Campo de Email"
+  FORMAT "x(25)"
+  INITIAL ""
+  POSITION 2
+  MAX-WIDTH 50
+  ORDER 10
+
+ADD FIELD "user_firstname" OF "user_control" AS character 
+  DESCRIPTION "Primeiro Nome"
+  FORMAT "A(10)"
+  INITIAL ""
+  POSITION 3
+  MAX-WIDTH 20
+  ORDER 20
+
+ADD FIELD "user_lastname" OF "user_control" AS character 
+  DESCRIPTION "Último nome"
+  FORMAT "A(15)"
+  INITIAL ""
+  POSITION 4
+  MAX-WIDTH 30
+  ORDER 30
+
+ADD FIELD "user_creationdate" OF "user_control" AS date 
+  DESCRIPTION "Data de Criação do Usuário"
+  FORMAT "99/99/9999"
+  INITIAL "TODAY"
+  POSITION 5
+  MAX-WIDTH 4
+  ORDER 40
+
+ADD FIELD "user_lastlogindate" OF "user_control" AS date 
+  DESCRIPTION "Último Login"
+  FORMAT "99/99/9999"
+  INITIAL ?
+  POSITION 6
+  MAX-WIDTH 4
+  ORDER 50
+
+ADD FIELD "user_username" OF "user_control" AS character 
+  DESCRIPTION "Nome de Usuário"
+  FORMAT "x(8)"
+  INITIAL ""
+  POSITION 7
+  MAX-WIDTH 16
+  ORDER 60
+
+ADD FIELD "user_password" OF "user_control" AS character 
+  DESCRIPTION "Senha de Usuário"
+  FORMAT "x(20)"
+  INITIAL ""
+  POSITION 8
+  MAX-WIDTH 40
+  ORDER 70
+  CASE-SENSITIVE
+
+ADD INDEX "idx_primary" ON "user_control" 
+  AREA "Schema Area"
+  PRIMARY
+  INDEX-FIELD "user_username" ASCENDING 
+
+ADD INDEX "idx_unique" ON "user_control" 
+  AREA "Schema Area"
+  UNIQUE
+  DESCRIPTION "Index único"
+  INDEX-FIELD "user_email" ASCENDING 
+
+.
+PSC
+cpstream=ISO8859-1
+.
+0000001602
