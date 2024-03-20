@@ -1,4 +1,6 @@
-![image](https://github.com/raphaelfrei/open_edge-guides/assets/16196820/15dd55a3-3a8a-46f1-acfc-c1510e3823e7)# OpenEdge Progress 4GL:
+# OpenEdge Progress 4GL:
+
+Vídeo no [YouTube](https://youtu.be/PZUiiU6TsYc)
 
 ## Acesso a Licença de Estudante:
 
