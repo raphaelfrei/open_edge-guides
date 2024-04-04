@@ -45,6 +45,7 @@ I'll try to make a basic Wiki about some essentials about progress.
 - [Hold Window with Pop-Up opened](https://github.com/raphaelfrei/open_edge-guides/tree/main/General/Hold%20Window%20With%20Popup)
 - [SQL Connection](https://github.com/raphaelfrei/open_edge-guides/tree/main/General/SQL%20Connection)
 - [POST Request](https://github.com/raphaelfrei/open_edge-guides/tree/main/General/POST%20Request)
+- [List All Sub Directories](https://github.com/raphaelfrei/open_edge-guides/tree/main/General/List%20All%20Sub%20Directories)
 
 ### Password and Encryption:
 - [Microsoft Azure Authentication](https://github.com/raphaelfrei/open_edge-guides/tree/main/Password%20and%20Encryption/Microsoft%20Azure%20Login)
