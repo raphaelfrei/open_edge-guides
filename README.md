@@ -36,6 +36,7 @@ I'll try to make a basic Wiki about some essentials about progress.
 
 ### General:
 
+- [Create Custom QUERY](https://github.com/raphaelfrei/open_edge-guides/tree/main/General/Create%20Custom%20QUERY)
 - [Get Caller Program and User](https://github.com/raphaelfrei/open_edge-guides/tree/main/General/Get%20Caller%20Program%20and%20User)
 - [Scale Screen *(and Elements)*](https://github.com/raphaelfrei/open_edge-guides/tree/main/General/Scale%20Screen)
 - [Try Catch Operations](https://github.com/raphaelfrei/open_edge-guides/tree/main/General/Try%20Catch)
