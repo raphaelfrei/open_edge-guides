@@ -47,6 +47,7 @@ I'll try to make a basic Wiki about some essentials about progress.
 - [SQL Connection](https://github.com/raphaelfrei/open_edge-guides/tree/main/General/SQL%20Connection)
 - [POST Request](https://github.com/raphaelfrei/open_edge-guides/tree/main/General/POST%20Request)
 - [List All Sub Directories](https://github.com/raphaelfrei/open_edge-guides/tree/main/General/List%20All%20Sub%20Directories)
+- [File Encrypt and Decrypt](https://github.com/raphaelfrei/open_edge-guides/blob/main/General/File%20Encrypt%20and%20Decrypt/Func-File-DeEncrypt.p)
 
 ### Password and Encryption:
 - [Microsoft Azure Authentication](https://github.com/raphaelfrei/open_edge-guides/tree/main/Password%20and%20Encryption/Microsoft%20Azure%20Login)
