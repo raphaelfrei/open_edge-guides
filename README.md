@@ -5,6 +5,11 @@ I'll try to make a basic Wiki about some essentials about progress.
 
 ## GitHub Guides:
 
+### OCX Migration:
+
+- [WinSocket to Progress Socket](https://github.com/raphaelfrei/open_edge-guides/tree/main/OCX-Migration/WinSocketToProgressSocket)
+- [Tree View to Pure4GLTV](https://github.com/raphaelfrei/open_edge-guides/tree/main/OCX-Migration/Pure4GLTV)
+
 ### Concepts of Programming:
 
 - [Basics](https://github.com/raphaelfrei/open_edge-guides/tree/main/Programming#basics-of-programming)
